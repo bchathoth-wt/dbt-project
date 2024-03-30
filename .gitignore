@@ -1,0 +1,6 @@
+.user.yml
+.vscode/
+.venv/
+logs/
+dbt_packages/
+target/
