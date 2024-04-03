@@ -1,0 +1,17 @@
+﻿id,protein_name,organism
+1,Abeta (M1-42),human
+2,Abeta (M1-40),human
+3,"Abeta (2-42, EDDIE N-terminal tag)",human
+4,"Abeta (D1-42, EDDIE N-terminal tag)",human
+5,"Abeta (M1-42, EndoF)",human
+6,"Abeta (p3-42, pyroglutamate)",human
+7,Abeta M1-42 (A2V mutant),human
+8,Abeta M1-42 (D23N mutant),human
+9,Human a-Synuclein,human
+10,Human a-Synuclein (A53T mutant),human
+11,Human a-Synuclein (E46K mutant),human
+12,Human a-Synuclein (N-terminal acetyl cap),human
+13,"Human a-Synuclein (wild type, EndoF)",human
+14,Human IAPP,human
+15,Human TDP-43 (C-terminal fragment),human
+16,Human TDP-43 (full length),human

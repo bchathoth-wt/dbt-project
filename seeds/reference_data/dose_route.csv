@@ -1,0 +1,5 @@
+﻿id,dose_route,long_name
+1,i.v.,intravenous
+2,p.o.,oral
+3,i.p.,intraperitoneal
+4,s.c.,subcutaneous

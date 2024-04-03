@@ -1,0 +1,6 @@
+﻿id,strain_name,alternates,organism
+1,Swiss albino,,Mouse
+2,C57BL,"[“C57BL/6“, “C576J“]",Mouse
+3,Sprague dawley,,Rat
+4,Beagle,,Dog
+5,CD1,,Mouse

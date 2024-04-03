@@ -1,0 +1,9 @@
+﻿id,organism_name,taxonomy_name,taxonomy_id
+1,Chicken,Gallus gallus,NCBI:txid9031
+2,Goat,Capra hircus ,NCBI:txid9925
+3,Mouse,Mus musculus,NCBI:txid10090
+4,Rabbit,Oryctolagus cuniculus,NCBI:txid9986
+5,Rat,Rattus norvegicus,NCBI:txid10116
+6,Human,Homo sapiens,NCBI:txid9606
+7,Dog,Canis lupus familiaris,NCBI:txid9615
+8,Crab-eating Macaque,Macaca fascicularis,NCBI:txid9541
