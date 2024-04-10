@@ -4,4 +4,4 @@
 logs/
 dbt_packages/
 target/
-*.duckdb
+duckdb/testdb.duckdb
