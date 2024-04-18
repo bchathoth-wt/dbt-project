@@ -1,0 +1,50 @@
+[
+ {
+   "id": 1,
+   "organism_name": "Chicken",
+   "taxonomy_name": "Gallus gallus",
+   "taxonomy_id": "NCBI:txid9031"
+ },
+ {
+   "id": 2,
+   "organism_name": "Goat",
+   "taxonomy_name": "Capra hircus ",
+   "taxonomy_id": "NCBI:txid9925"
+ },
+ {
+   "id": 3,
+   "organism_name": "Mouse",
+   "taxonomy_name": "Mus musculus",
+   "taxonomy_id": "NCBI:txid10090"
+ },
+ {
+   "id": 4,
+   "organism_name": "Rabbit",
+   "taxonomy_name": "Oryctolagus cuniculus",
+   "taxonomy_id": "NCBI:txid9986"
+ },
+ {
+   "id": 5,
+   "organism_name": "Rat",
+   "taxonomy_name": "Rattus norvegicus",
+   "taxonomy_id": "NCBI:txid10116"
+ },
+ {
+   "id": 6,
+   "organism_name": "Human",
+   "taxonomy_name": "Homo sapiens",
+   "taxonomy_id": "NCBI:txid9606"
+ },
+ {
+   "id": 7,
+   "organism_name": "Dog",
+   "taxonomy_name": "Canis lupus familiaris",
+   "taxonomy_id": "NCBI:txid9615"
+ },
+ {
+   "id": 8,
+   "organism_name": "Crab-eating Macaque",
+   "taxonomy_name": "Macaca fascicularis",
+   "taxonomy_id": "NCBI:txid9541"
+ }
+]
